@@ -1,0 +1,33 @@
+body {
+	background-color: bisque;
+}
+
+#rect{
+	background-color: black;
+	width: 100px;
+	height: 100px;
+}
+
+button {
+	height: 80px;
+	width: 80px;
+	background-color: white;
+	border-radius: 100%;
+	margin: 5px;
+	padding: 5px;
+}
+
+.fa {
+	font-size: 48px;
+	color: black;
+	
+}
+
+.reset {
+	padding: 8px;
+
+}
+
+.reset:hover {
+	opacity: 100%;
+}
